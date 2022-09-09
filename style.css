@@ -23,12 +23,12 @@
 .item-2{
     grid-area: nav;
     height: 5em;
-    background-color: #F2BE22;
+    background-color: #A6874E;
 }
 .item-3{
     grid-area: article;
     height: 40em;
-    background-color: #A6874E;
+    background-color: #F2BE22;
 }
 .item-4{
     grid-area: dev;
