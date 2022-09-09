@@ -1,6 +1,7 @@
 *{
     margin: 0; padding: 0;
     box-sizing: border-box;
+    border-radius: .5em;
 }
 #roots {
     margin: 10px;
@@ -17,22 +18,27 @@
 .item-1{
     grid-area: header;
     height: 5em;
+    background-color: #732C32;
 }
 .item-2{
     grid-area: nav;
     height: 5em;
+    background-color: #A44E5B;
 }
 .item-3{
     grid-area: article;
     height: 40em;
+    background-color: #ADB69F;
 }
 .item-4{
     grid-area: dev;
     height: 40em;
+    background-color: #EADBC6;
 }
 .item-5{
     grid-area: footer;
     height: 5em;
+    background-color: #F2F2F2;
 }
 
 @media (max-width: 900px){
