@@ -18,17 +18,17 @@
 .item-1{
     grid-area: header;
     height: 5em;
-    background-color: #732C32;
+    background-color: #185359;
 }
 .item-2{
     grid-area: nav;
     height: 5em;
-    background-color: #A44E5B;
+    background-color: #F2BE22;
 }
 .item-3{
     grid-area: article;
     height: 40em;
-    background-color: #ADB69F;
+    background-color: #A6874E;
 }
 .item-4{
     grid-area: dev;
@@ -38,7 +38,7 @@
 .item-5{
     grid-area: footer;
     height: 5em;
-    background-color: #F2F2F2;
+    background-color: #BFBFBF;
 }
 
 @media (max-width: 900px){
